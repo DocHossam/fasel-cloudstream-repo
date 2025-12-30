@@ -1,0 +1,12 @@
+{
+  "name": "Fasel CloudStream Repo",
+  "description": "Arabic Movies & Series - FaselHD",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "FaselHD",
+      "version": 1,
+      "file": "FaselHD.kt"
+    }
+  ]
+}
